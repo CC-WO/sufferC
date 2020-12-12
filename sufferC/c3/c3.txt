@@ -1,0 +1,21 @@
+問1
+答え：printf
+
+問2
+答え：#include <stdio.h>
+
+問3
+答え：エスケープシーケンス
+
+問4
+答え：
+The pen is mighter
+than the sword
+
+問5
+答え：
+C Language 
+\n is NewLine Symbol  \t is Tab Symbol
+
+問6
+答え：c3_p1
